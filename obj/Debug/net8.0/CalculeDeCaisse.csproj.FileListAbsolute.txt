@@ -1,0 +1,14 @@
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.AssemblyInfoInputs.cache
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.AssemblyInfo.cs
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.csproj.CoreCompileInputs.cache
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\bin\Debug\net8.0\CalculeDeCaisse.exe
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\bin\Debug\net8.0\CalculeDeCaisse.deps.json
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\bin\Debug\net8.0\CalculeDeCaisse.runtimeconfig.json
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\bin\Debug\net8.0\CalculeDeCaisse.dll
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\bin\Debug\net8.0\CalculeDeCaisse.pdb
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.dll
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\refint\CalculeDeCaisse.dll
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.pdb
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\CalculeDeCaisse.genruntimeconfig.cache
+C:\Users\HP\3D Objects\programmation POO\c#\CalculeDeCaisse\obj\Debug\net8.0\ref\CalculeDeCaisse.dll
